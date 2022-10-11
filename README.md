@@ -1,2 +1,3 @@
-# chatbox
-temp
+---
+permalink: /index.html
+---
